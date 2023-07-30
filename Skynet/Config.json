@@ -1,0 +1,10 @@
+{
+  "CommandPrefix": "!",
+  "Token": "",
+  "MaxDiscordEmbedFields": 10,
+  "LaunchDelay": 10000,
+  "Spotify": {
+    "ClientId": "",
+    "ClientSecret": ""
+  }
+}
